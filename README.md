@@ -1,12 +1,16 @@
-# advait_assignment
+# Advait_assignment
 
 # Supported version :: Java 17, Spring boot 3.2.2, Eclipse
 # There are 3 main package: Controller, Service and repository
 # Endpoint present in : UserController class
 # Business logic present in UserService class.
 
-Mutiple ways to validating token, I have not created the security adapter in order to validate, Directlt getting from header. All the API are in working state 
+Ignore test package
 
+# Token
+Mutiple ways to validating token,Here created TokenUtil class, I have not created the security adapter in order to validate, Directlt getting from header. All the API are in working state 
+
+# Database
 Database connection detail present in application.properties
 
 # Below are the request and response in order to validate it.
